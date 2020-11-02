@@ -5,11 +5,10 @@ Wiki.js Deployment
 <details>
   <summary>Docker</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+  ### Docker Compose
+  - Update docker-compose config: `vim basic-installation/docker-compose.yml`
+  - Run compose in background: `docker-compose up -d`
+  - Browse to `http://YOUR-SERVER-IP` to complete setup
 </details>
 
 <details>
