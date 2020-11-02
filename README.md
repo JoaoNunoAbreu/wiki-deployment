@@ -28,12 +28,21 @@ Wiki.js Deployment
   ### [Optional] Run Wiki.js Server as Service
   - Update user config: `vim wiki.service`
   - Create Service specification: `sudo bash -c 'cat wiki.service > /etc/systemd/system/wiki.service'`
+  - Copy wiki to static folder: `sudo cp wiki /var/wiki`
   - Reload systemd: `sudo systemctl reload-daemon`
   - Run the service: `sudo systemctl start wiki`
   - Check Wiki.js service status: `sudo systemtctl status wiki` or see logs with `journalctl -u wiki`
   
   ### Open Wiki.js
   Browse to `http://YOUR-SERVER-IP:3000` to complete setup.
+</details>
+
+<details>
+  <summary>Heroku</summary>
+  
+  After creating an account on Heroku, click [here](https://heroku.com/deploy?template=https://github.com/requarks/wiki-heroku/tree/2.x)
+  
+ 
 </details>
 
 ## Authors
