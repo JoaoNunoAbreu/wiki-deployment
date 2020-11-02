@@ -37,8 +37,11 @@
 
 <details>
   <summary>Heroku</summary>
-  
-  After creating an account on Heroku, click [here](https://heroku.com/deploy?template=https://github.com/requarks/wiki-heroku/tree/2.x)
+
+  ### Initial Setup
+  - After creating an account on Heroku, click [here](https://heroku.com/deploy?template=https://github.com/requarks/wiki-heroku/tree/2.x).
+  - Wait for heroku to deploy.
+  - After a succesfull deploy, select manage app. The deploy will be automatically done in a free tier with PostgreSQL. 
   
  
 </details>
