@@ -1,5 +1,4 @@
-# Wiki Deployment
-Wiki.js Deployment
+# Wiki.js Deployment
 
 ## Basic Installation
 <details>
