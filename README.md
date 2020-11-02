@@ -5,10 +5,11 @@ Wiki.js Deployment
 <details>
   <summary>Docker</summary>
   
-  ### Docker Compose
-  - Update docker-compose config: `vim basic-installation/docker-compose.yml`
-  - Run compose in background: `docker-compose up -d`
-  - Browse to `http://YOUR-SERVER-IP` to complete setup
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
 </details>
 
 <details>
@@ -33,6 +34,14 @@ Wiki.js Deployment
   
   ### Open Wiki.js
   Browse to `http://YOUR-SERVER-IP:3000` to complete setup.
+</details>
+
+<details>
+  <summary>Heroku</summary>
+  
+  After creating an account on Heroku, click [here](https://heroku.com/deploy?template=https://github.com/requarks/wiki-heroku/tree/2.x)
+  
+ 
 </details>
 
 ## Authors
