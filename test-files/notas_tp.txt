@@ -1,0 +1,10 @@
+Lista de Testes:
+
+-- Grupo Menor ----------- [até 1000 users]
+Login
+Login + Consulta de Users
+Login + Adição de User + Consulta de Users
+Login + Adição de Página
+-- Grupo Maior ----------- [até 100.000 pedidos]
+Visualiação de Página
+(maybe) Procurar uma página na search bar e abrir
