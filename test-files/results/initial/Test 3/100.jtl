@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1607730926425,536,GET Login,200,OK,Thread Group 1-10,text,true,,2313,396,65,65,http://34.78.150.159/login,462,0,64
+1607730926451,1019,GET Login,200,OK,Thread Group 1-14,text,true,,2313,396,100,100,http://34.78.150.159/login,940,0,59
+1607730926424,1047,GET Login,200,OK,Thread Group 1-5,text,true,,2313,396,100,100,http://34.78.150.159/login,966,0,84
+1607730926424,1048,GET Login,200,OK,Thread Group 1-6,text,true,,2313,396,100,100,http://34.78.150.159/login,968,0,68
+1607730926550,1466,GET Login,200,OK,Thread Group 1-24,text,true,,2313,396,100,100,http://34.78.150.159/login,1385,0,38
+1607730926560,1456,GET Login,200,OK,Thread Group 1-25,text,true,,2313,396,100,100,http://34.78.150.159/login,1375,0,37
+1607730926578,1438,GET Login,200,OK,Thread Group 1-27,text,true,,2313,396,100,100,http://34.78.150.159/login,1358,0,37
+1607730926499,1517,GET Login,200,OK,Thread Group 1-19,text,true,,2313,396,100,100,http://34.78.150.159/login,1435,0,44
+1607730926519,1498,GET Login,200,OK,Thread Group 1-21,text,true,,2313,396,100,100,http://34.78.150.159/login,1415,0,39
+1607730926529,1489,GET Login,200,OK,Thread Group 1-22,text,true,,2313,396,100,100,http://34.78.150.159/login,1407,0,42
+1607730926508,1511,GET Login,200,OK,Thread Group 1-20,text,true,,2313,396,100,100,http://34.78.150.159/login,1428,0,42
+1607730926609,1410,GET Login,200,OK,Thread Group 1-30,text,true,,2313,396,100,100,http://34.78.150.159/login,1328,0,38
+1607730926424,1595,GET Login,200,OK,Thread Group 1-11,text,true,,2313,396,100,100,http://34.78.150.159/login,1510,0,86
+1607730926425,1595,GET Login,200,OK,Thread Group 1-4,text,true,,2313,396,100,100,http://34.78.150.159/login,1512,0,68
+1607730926590,1430,GET Login,200,OK,Thread Group 1-28,text,true,,2313,396,100,100,http://34.78.150.159/login,1347,0,37
+1607730926488,1533,GET Login,200,OK,Thread Group 1-18,text,true,,2313,396,100,100,http://34.78.150.159/login,1447,0,40
+1607730926620,1401,GET Login,200,OK,Thread Group 1-31,text,true,,2313,396,100,100,http://34.78.150.159/login,1317,0,42
+1607730926468,1553,GET Login,200,OK,Thread Group 1-16,text,true,,2313,396,100,100,http://34.78.150.159/login,1465,0,48
+1607730926598,1423,GET Login,200,OK,Thread Group 1-29,text,true,,2313,396,100,100,http://34.78.150.159/login,1339,0,39
+1607730926539,1482,GET Login,200,OK,Thread Group 1-23,text,true,,2313,396,100,100,http://34.78.150.159/login,1398,0,40
+1607730926478,1544,GET Login,200,OK,Thread Group 1-17,text,true,,2313,396,100,100,http://34.78.150.159/login,1458,0,40
+1607730926570,1453,GET Login,200,OK,Thread Group 1-26,text,true,,2313,396,100,100,http://34.78.150.159/login,1367,0,39
+1607730926459,1565,GET Login,200,OK,Thread Group 1-15,text,true,,2313,396,100,100,http://34.78.150.159/login,1475,0,56
+1607730928016,695,POST Login,200,OK,Thread Group 1-25,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,695,0,0
+1607730928017,695,POST Login,200,OK,Thread Group 1-27,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,695,0,0
+1607730928017,698,POST Login,200,OK,Thread Group 1-19,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,698,0,0
+1607730928017,699,POST Login,200,OK,Thread Group 1-21,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,699,0,0
+1607730928019,700,POST Login,200,OK,Thread Group 1-22,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,700,0,0
+1607730928021,699,POST Login,200,OK,Thread Group 1-28,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,699,0,0
+1607730928020,700,POST Login,200,OK,Thread Group 1-30,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,700,0,0
+1607730928020,704,POST Login,200,OK,Thread Group 1-20,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,704,0,0
+1607730928021,704,POST Login,200,OK,Thread Group 1-18,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,704,0,0
+1607730928020,706,POST Login,200,OK,Thread Group 1-11,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,706,0,0
+1607730928021,706,POST Login,200,OK,Thread Group 1-4,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,706,0,0
+1607730928021,708,POST Login,200,OK,Thread Group 1-31,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,708,0,0
+1607730928023,708,POST Login,200,OK,Thread Group 1-17,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,708,0,0
+1607730928022,711,POST Login,200,OK,Thread Group 1-29,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,711,0,0
+1607730928023,711,POST Login,200,OK,Thread Group 1-26,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,711,0,0
+1607730928022,713,POST Login,200,OK,Thread Group 1-23,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,713,0,0
+1607730928021,715,POST Login,200,OK,Thread Group 1-16,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,715,0,0
+1607730928024,714,POST Login,200,OK,Thread Group 1-15,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,714,0,0
+1607730926800,1965,GET Login,200,OK,Thread Group 1-49,text,true,,2313,396,100,100,http://34.78.150.159/login,1885,0,37
+1607730926639,2127,GET Login,200,OK,Thread Group 1-33,text,true,,2313,396,100,100,http://34.78.150.159/login,2044,0,37
+1607730926649,2117,GET Login,200,OK,Thread Group 1-34,text,true,,2313,396,100,100,http://34.78.150.159/login,2034,0,38
+1607730926699,2067,GET Login,200,OK,Thread Group 1-39,text,true,,2313,396,100,100,http://34.78.150.159/login,1984,0,41
+1607730926629,2139,GET Login,200,OK,Thread Group 1-32,text,true,,2313,396,100,100,http://34.78.150.159/login,2053,0,39
+1607730926728,2040,GET Login,200,OK,Thread Group 1-42,text,true,,2313,396,100,100,http://34.78.150.159/login,1956,0,36
+1607730926749,2019,GET Login,200,OK,Thread Group 1-44,text,true,,2313,396,100,100,http://34.78.150.159/login,1938,0,36
+1607730926679,2089,GET Login,200,OK,Thread Group 1-37,text,true,,2313,396,100,100,http://34.78.150.159/login,2006,0,38
+1607730926669,2100,GET Login,200,OK,Thread Group 1-36,text,true,,2313,396,100,100,http://34.78.150.159/login,2014,0,39
+1607730926708,2061,GET Login,200,OK,Thread Group 1-40,text,true,,2313,396,100,100,http://34.78.150.159/login,1978,0,38
+1607730926660,2110,GET Login,200,OK,Thread Group 1-35,text,true,,2313,396,100,100,http://34.78.150.159/login,2025,0,39
+1607730926432,2339,GET Login,200,OK,Thread Group 1-12,text,true,,2313,396,100,100,http://34.78.150.159/login,2256,0,61
+1607730926739,2032,GET Login,200,OK,Thread Group 1-43,text,true,,2313,396,100,100,http://34.78.150.159/login,1947,0,39
+1607730926789,1982,GET Login,200,OK,Thread Group 1-48,text,true,,2313,396,100,100,http://34.78.150.159/login,1897,0,42
+1607730926778,1994,GET Login,200,OK,Thread Group 1-47,text,true,,2313,396,100,100,http://34.78.150.159/login,1909,0,40
+1607730926689,2084,GET Login,200,OK,Thread Group 1-38,text,true,,2313,396,100,100,http://34.78.150.159/login,1997,0,36
+1607730926769,2005,GET Login,200,OK,Thread Group 1-46,text,true,,2313,396,100,100,http://34.78.150.159/login,1918,0,39
+1607730926760,2014,GET Login,200,OK,Thread Group 1-45,text,true,,2313,396,100,100,http://34.78.150.159/login,1928,0,39
+1607730926719,2055,GET Login,200,OK,Thread Group 1-41,text,true,,2313,396,100,100,http://34.78.150.159/login,1966,0,38
+1607730926999,1938,GET Login,200,OK,Thread Group 1-69,text,true,,2313,396,100,100,http://34.78.150.159/login,1861,0,37
+1607730926889,2048,GET Login,200,OK,Thread Group 1-58,text,true,,2313,396,100,100,http://34.78.150.159/login,1969,0,91
+1607730927019,1917,GET Login,200,OK,Thread Group 1-71,text,true,,2313,396,100,100,http://34.78.150.159/login,1841,0,36
+1607730926859,2078,GET Login,200,OK,Thread Group 1-55,text,true,,2313,396,100,100,http://34.78.150.159/login,1999,0,37
+1607730927058,1879,GET Login,200,OK,Thread Group 1-75,text,true,,2313,396,100,100,http://34.78.150.159/login,1802,0,72
+1607730927079,1858,GET Login,200,OK,Thread Group 1-77,text,true,,2313,396,100,100,http://34.78.150.159/login,1781,0,59
+1607730926949,1988,GET Login,200,OK,Thread Group 1-64,text,true,,2313,396,100,100,http://34.78.150.159/login,1910,0,50
+1607730927049,1888,GET Login,200,OK,Thread Group 1-74,text,true,,2313,396,100,100,http://34.78.150.159/login,1811,0,80
+1607730926839,2098,GET Login,200,OK,Thread Group 1-53,text,true,,2313,396,100,100,http://34.78.150.159/login,2019,0,38
+1607730926828,2111,GET Login,200,OK,Thread Group 1-52,text,true,,2313,396,100,100,http://34.78.150.159/login,2029,0,38
+1607730926928,2011,GET Login,200,OK,Thread Group 1-62,text,true,,2313,396,100,100,http://34.78.150.159/login,1931,0,61
+1607730927140,1799,GET Login,200,OK,Thread Group 1-83,text,true,,2313,396,100,100,http://34.78.150.159/login,1721,0,38
+1607730926959,1980,GET Login,200,OK,Thread Group 1-65,text,true,,2313,396,100,100,http://34.78.150.159/login,1900,0,43
+1607730926909,2030,GET Login,200,OK,Thread Group 1-60,text,true,,2313,396,100,100,http://34.78.150.159/login,1950,0,73
+1607730926849,2090,GET Login,200,OK,Thread Group 1-54,text,true,,2313,396,100,100,http://34.78.150.159/login,2010,0,40
+1607730926869,2070,GET Login,200,OK,Thread Group 1-56,text,true,,2313,396,100,100,http://34.78.150.159/login,1989,0,38
+1607730926878,2062,GET Login,200,OK,Thread Group 1-57,text,true,,2313,396,100,100,http://34.78.150.159/login,1982,0,38
+1607730927009,1931,GET Login,200,OK,Thread Group 1-70,text,true,,2313,396,100,100,http://34.78.150.159/login,1852,0,38
+1607730926988,1952,GET Login,200,OK,Thread Group 1-68,text,true,,2313,396,100,100,http://34.78.150.159/login,1872,0,42
+1607730927030,1910,GET Login,200,OK,Thread Group 1-72,text,true,,2313,396,100,100,http://34.78.150.159/login,1831,0,96
+1607730926819,2121,GET Login,200,OK,Thread Group 1-51,text,true,,2313,396,100,100,http://34.78.150.159/login,2039,0,39
+1607730927039,1901,GET Login,200,OK,Thread Group 1-73,text,true,,2313,396,100,100,http://34.78.150.159/login,1822,0,89
+1607730926919,2022,GET Login,200,OK,Thread Group 1-61,text,true,,2313,396,100,100,http://34.78.150.159/login,1939,0,64
+1607730926969,1972,GET Login,200,OK,Thread Group 1-66,text,true,,2313,396,100,100,http://34.78.150.159/login,1891,0,56
+1607730926979,1962,GET Login,200,OK,Thread Group 1-67,text,true,,2313,396,100,100,http://34.78.150.159/login,1880,0,46
+1607730927069,1872,GET Login,200,OK,Thread Group 1-76,text,true,,2313,396,100,100,http://34.78.150.159/login,1792,0,62
+1607730927107,1834,GET Login,200,OK,Thread Group 1-80,text,true,,2313,396,100,100,http://34.78.150.159/login,1753,0,42
+1607730926899,2043,GET Login,200,OK,Thread Group 1-59,text,true,,2313,396,100,100,http://34.78.150.159/login,1961,0,83
+1607730926808,2134,GET Login,200,OK,Thread Group 1-50,text,true,,2313,396,100,100,http://34.78.150.159/login,2050,0,43
+1607730926939,2004,GET Login,200,OK,Thread Group 1-63,text,true,,2313,396,100,100,http://34.78.150.159/login,1919,0,53
+1607730927229,1723,GET Login,200,OK,Thread Group 1-92,text,true,,2313,396,100,100,http://34.78.150.159/login,1638,0,36
+1607730927210,1743,GET Login,200,OK,Thread Group 1-90,text,true,,2313,396,100,100,http://34.78.150.159/login,1656,0,37
+1607730927098,1855,GET Login,200,OK,Thread Group 1-79,text,true,,2313,396,100,100,http://34.78.150.159/login,1769,0,48
+1607730927170,1784,GET Login,200,OK,Thread Group 1-86,text,true,,2313,396,100,100,http://34.78.150.159/login,1697,0,39
+1607730927189,1765,GET Login,200,OK,Thread Group 1-88,text,true,,2313,396,100,100,http://34.78.150.159/login,1678,0,39
+1607730927199,1755,GET Login,200,OK,Thread Group 1-89,text,true,,2313,396,100,100,http://34.78.150.159/login,1668,0,39
+1607730927179,1775,GET Login,200,OK,Thread Group 1-87,text,true,,2313,396,100,100,http://34.78.150.159/login,1688,0,39
+1607730927239,1725,GET Login,200,OK,Thread Group 1-93,text,true,,2313,396,100,100,http://34.78.150.159/login,1627,0,40
+1607730927088,1876,GET Login,200,OK,Thread Group 1-78,text,true,,2313,396,100,100,http://34.78.150.159/login,1778,0,54
+1607730927219,1745,GET Login,200,OK,Thread Group 1-91,text,true,,2313,396,100,100,http://34.78.150.159/login,1649,0,39
+1607730927149,1815,GET Login,200,OK,Thread Group 1-84,text,true,,2313,396,100,100,http://34.78.150.159/login,1718,0,41
+1607730927159,1805,GET Login,200,OK,Thread Group 1-85,text,true,,2313,396,100,100,http://34.78.150.159/login,1709,0,39
+1607730927119,1846,GET Login,200,OK,Thread Group 1-81,text,true,,2313,396,100,100,http://34.78.150.159/login,1747,0,44
+1607730927130,1837,GET Login,200,OK,Thread Group 1-82,text,true,,2313,396,100,100,http://34.78.150.159/login,1736,0,45
+1607730928766,1005,POST Login,200,OK,Thread Group 1-49,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1005,0,0
+1607730928766,1006,POST Login,200,OK,Thread Group 1-33,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1005,0,0
+1607730928766,1007,POST Login,200,OK,Thread Group 1-34,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1007,0,0
+1607730928769,1008,POST Login,200,OK,Thread Group 1-44,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1008,0,0
+1607730928766,1011,POST Login,200,OK,Thread Group 1-39,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1011,0,0
+1607730928770,1009,POST Login,200,OK,Thread Group 1-35,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1009,0,0
+1607730928770,1010,POST Login,200,OK,Thread Group 1-40,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1010,0,0
+1607730928770,1011,POST Login,200,OK,Thread Group 1-36,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1011,0,0
+1607730928773,1010,POST Login,200,OK,Thread Group 1-38,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1010,0,0
+1607730928771,1014,POST Login,200,OK,Thread Group 1-12,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1014,0,0
+1607730928773,1013,POST Login,200,OK,Thread Group 1-37,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1013,0,0
+1607730928769,1018,POST Login,200,OK,Thread Group 1-42,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1018,0,0
+1607730928771,1018,POST Login,200,OK,Thread Group 1-43,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1018,0,0
+1607730928769,1021,POST Login,200,OK,Thread Group 1-32,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1021,0,0
+1607730928775,1016,POST Login,200,OK,Thread Group 1-41,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1015,0,0
+1607730928771,1026,POST Login,200,OK,Thread Group 1-48,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1026,0,0
+1607730928774,1023,POST Login,200,OK,Thread Group 1-46,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1023,0,0
+1607730928774,1023,POST Login,200,OK,Thread Group 1-45,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1023,0,0
+1607730928773,1024,POST Login,200,OK,Thread Group 1-47,text,true,,1289,1000,100,100,http://34.78.150.159/graphql,1024,0,0
+1607730926424,3560,GET Login,200,OK,Thread Group 1-2,text,true,,2313,396,100,100,http://34.78.150.159/login,3473,0,73
+1607730927269,2718,GET Login,200,OK,Thread Group 1-96,text,true,,2313,396,100,100,http://34.78.150.159/login,2629,0,83
+1607730927289,2698,GET Login,200,OK,Thread Group 1-98,text,true,,2313,396,100,100,http://34.78.150.159/login,2610,0,67
+1607730927259,2729,GET Login,200,OK,Thread Group 1-95,text,true,,2313,396,100,100,http://34.78.150.159/login,2640,0,92
+1607730927248,2740,GET Login,200,OK,Thread Group 1-94,text,true,,2313,396,100,100,http://34.78.150.159/login,2651,0,89
+1607730927308,2681,GET Login,200,OK,Thread Group 1-100,text,true,,2313,396,100,100,http://34.78.150.159/login,2592,0,53
+1607730927299,2690,GET Login,200,OK,Thread Group 1-99,text,true,,2313,396,100,100,http://34.78.150.159/login,2601,0,57
+1607730927278,2711,GET Login,200,OK,Thread Group 1-97,text,true,,2313,396,100,100,http://34.78.150.159/login,2622,0,74
+1607730928937,1476,POST Login,200,OK,Thread Group 1-69,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1476,0,0
+1607730928937,1479,POST Login,200,OK,Thread Group 1-75,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1479,0,0
+1607730928937,1481,POST Login,200,OK,Thread Group 1-58,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1481,0,0
+1607730928937,1483,POST Login,200,OK,Thread Group 1-55,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1483,0,0
+1607730928937,1485,POST Login,200,OK,Thread Group 1-71,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1485,0,0
+1607730928938,1486,POST Login,200,OK,Thread Group 1-64,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1486,0,0
+1607730928938,1487,POST Login,200,OK,Thread Group 1-53,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1487,0,0
+1607730928938,1488,POST Login,200,OK,Thread Group 1-74,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1488,0,0
+1607730928939,1490,POST Login,200,OK,Thread Group 1-60,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1490,0,0
+1607730928937,1493,POST Login,200,OK,Thread Group 1-77,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1493,0,0
+1607730928939,1492,POST Login,200,OK,Thread Group 1-54,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1492,0,0
+1607730928940,1493,POST Login,200,OK,Thread Group 1-57,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1493,0,0
+1607730928940,1495,POST Login,200,OK,Thread Group 1-73,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1495,0,0
+1607730928941,1495,POST Login,200,OK,Thread Group 1-70,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1495,0,0
+1607730928939,1497,POST Login,200,OK,Thread Group 1-83,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1497,0,0
+1607730928939,1499,POST Login,200,OK,Thread Group 1-52,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1499,0,0
+1607730928940,1500,POST Login,200,OK,Thread Group 1-68,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1500,0,0
+1607730928939,1502,POST Login,200,OK,Thread Group 1-56,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1502,0,0
+1607730928940,1503,POST Login,200,OK,Thread Group 1-51,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1503,0,0
+1607730928939,1504,POST Login,200,OK,Thread Group 1-62,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1504,0,0
+1607730928942,1504,POST Login,200,OK,Thread Group 1-59,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1504,0,0
+1607730928941,1506,POST Login,200,OK,Thread Group 1-66,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1506,0,0
+1607730928941,1507,POST Login,200,OK,Thread Group 1-76,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1507,0,0
+1607730928939,1511,POST Login,200,OK,Thread Group 1-65,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1511,0,0
+1607730928940,1510,POST Login,200,OK,Thread Group 1-72,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1510,0,0
+1607730928943,1510,POST Login,200,OK,Thread Group 1-50,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1510,0,0
+1607730928941,1512,POST Login,200,OK,Thread Group 1-67,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1512,0,0
+1607730928942,1513,POST Login,200,OK,Thread Group 1-80,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1513,0,0
+1607730928941,1515,POST Login,200,OK,Thread Group 1-61,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1515,0,0
+1607730928943,1514,POST Login,200,OK,Thread Group 1-63,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1514,0,0
+1607730928952,1506,POST Login,200,OK,Thread Group 1-92,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1506,0,0
+1607730928953,1507,POST Login,200,OK,Thread Group 1-90,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1507,0,0
+1607730928954,1508,POST Login,200,OK,Thread Group 1-86,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1508,0,0
+1607730928955,1509,POST Login,200,OK,Thread Group 1-89,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1509,0,0
+1607730928955,1510,POST Login,200,OK,Thread Group 1-87,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1510,0,0
+1607730928965,1504,POST Login,200,OK,Thread Group 1-85,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1504,0,0
+1607730928953,1516,POST Login,200,OK,Thread Group 1-79,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1516,0,0
+1607730928955,1514,POST Login,200,OK,Thread Group 1-88,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1514,0,0
+1607730928965,1506,POST Login,200,OK,Thread Group 1-84,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1506,0,0
+1607730928965,1506,POST Login,200,OK,Thread Group 1-91,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1506,0,0
+1607730928966,1508,POST Login,200,OK,Thread Group 1-81,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1508,0,0
+1607730928965,1513,POST Login,200,OK,Thread Group 1-78,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1513,0,0
+1607730928967,1512,POST Login,200,OK,Thread Group 1-82,text,true,,1403,1000,100,100,http://34.78.150.159/graphql,1512,0,0
+1607730928965,1515,POST Login,200,OK,Thread Group 1-93,text,true,,1289,1000,100,100,http://34.78.150.159/graphql,1515,0,0
+1607730926425,4135,GET Login,200,OK,Thread Group 1-7,text,true,,2313,396,100,100,http://34.78.150.159/login,4056,0,78
+1607730926424,4136,GET Login,200,OK,Thread Group 1-3,text,true,,2313,396,100,100,http://34.78.150.159/login,4057,0,74
+1607730926424,4136,GET Login,200,OK,Thread Group 1-8,text,true,,2313,396,100,100,http://34.78.150.159/login,4060,0,79
+1607730926424,4137,GET Login,200,OK,Thread Group 1-9,text,true,,2313,396,100,100,http://34.78.150.159/login,4060,0,80
+1607730926441,4120,GET Login,200,OK,Thread Group 1-13,text,true,,2313,396,100,100,http://34.78.150.159/login,4043,0,62
+1607730926424,4138,GET Login,200,OK,Thread Group 1-1,text,true,,2313,396,100,100,http://34.78.150.159/login,4057,0,79
+1607730929984,1038,POST Login,200,OK,Thread Group 1-2,text,true,,1440,1000,100,100,http://34.78.150.159/graphql,1038,0,0
+1607730929989,1045,POST Login,200,OK,Thread Group 1-100,text,true,,1326,1000,100,100,http://34.78.150.159/graphql,1044,0,0
+1607730930562,650,POST Login,200,OK,Thread Group 1-1,text,true,,1326,1000,100,100,http://34.78.150.159/graphql,650,0,0
+1607730929989,1401,POST Login,200,OK,Thread Group 1-97,text,true,,1440,1000,100,100,http://34.78.150.159/graphql,1401,0,0
+1607730929987,1403,POST Login,200,OK,Thread Group 1-96,text,true,,1440,1000,100,100,http://34.78.150.159/graphql,1403,0,0
+1607730929987,1403,POST Login,200,OK,Thread Group 1-98,text,true,,1440,1000,100,100,http://34.78.150.159/graphql,1403,0,0
+1607730929989,1404,POST Login,200,OK,Thread Group 1-99,text,true,,1440,1000,100,100,http://34.78.150.159/graphql,1404,0,0
+1607730929988,1431,POST Login,200,OK,Thread Group 1-95,text,true,,1440,1000,100,100,http://34.78.150.159/graphql,1431,0,0
+1607730929989,1432,POST Login,200,OK,Thread Group 1-94,text,true,,1440,1000,100,100,http://34.78.150.159/graphql,1432,0,0
+1607730930560,982,POST Login,200,OK,Thread Group 1-3,text,true,,1440,1000,100,100,http://34.78.150.159/graphql,982,0,0
+1607730930561,981,POST Login,200,OK,Thread Group 1-9,text,true,,1440,1000,100,100,http://34.78.150.159/graphql,981,0,0
+1607730930560,983,POST Login,200,OK,Thread Group 1-7,text,true,,1440,1000,100,100,http://34.78.150.159/graphql,983,0,0
+1607730930560,983,POST Login,200,OK,Thread Group 1-8,text,true,,1440,1000,100,100,http://34.78.150.159/graphql,983,0,0
+1607730930561,983,POST Login,200,OK,Thread Group 1-13,text,true,,1440,1000,100,100,http://34.78.150.159/graphql,983,0,0
+1607730928712,4223,GET Home,200,OK,Thread Group 1-25,text,true,,13367,396,100,100,http://34.78.150.159/,4190,0,0
+1607730926559,6375,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-25,,true,,17083,1792,100,100,null,6260,2,37
+1607730928713,4224,GET Home,200,OK,Thread Group 1-27,text,true,,13374,396,99,99,http://34.78.150.159/,4190,0,0
+1607730926578,6357,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-27,,true,,17090,1792,99,99,null,6243,2,37
+1607730928715,4222,GET Home,200,OK,Thread Group 1-19,text,true,,13374,396,98,98,http://34.78.150.159/,4188,0,0
+1607730926498,6437,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-19,,true,,17090,1792,98,98,null,6321,2,44
+1607730928716,4222,GET Home,200,OK,Thread Group 1-21,text,true,,13367,396,97,97,http://34.78.150.159/,4187,0,0
+1607730928721,4217,GET Home,200,OK,Thread Group 1-30,text,true,,13367,396,97,97,http://34.78.150.159/,4182,0,0
+1607730926608,6327,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-30,,true,,17083,1792,97,97,null,6210,3,38
+1607730926518,6419,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-21,,true,,17083,1792,97,97,null,6301,1,39
+1607730928720,4219,GET Home,200,OK,Thread Group 1-28,text,true,,13374,396,95,95,http://34.78.150.159/,4184,0,0
+1607730926589,6348,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-28,,true,,17090,1792,95,95,null,6230,2,37
+1607730928719,4220,GET Home,200,OK,Thread Group 1-22,text,true,,13374,396,95,95,http://34.78.150.159/,4185,0,0
+1607730926528,6409,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-22,,true,,17090,1792,95,95,null,6292,2,42
+1607730928725,4214,GET Home,200,OK,Thread Group 1-18,text,true,,13374,396,94,94,http://34.78.150.159/,4179,0,0
+1607730926488,6451,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-18,,true,,17090,1792,94,94,null,6330,0,40
+1607730928724,4216,GET Home,200,OK,Thread Group 1-20,text,true,,13367,396,92,92,http://34.78.150.159/,4180,0,0
+1607730926508,6431,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-20,,true,,17083,1792,92,92,null,6312,1,42
+1607730928726,4215,GET Home,200,OK,Thread Group 1-11,text,true,,13374,396,91,91,http://34.78.150.159/,4178,0,0
+1607730926420,6516,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-11,,true,,17090,1792,91,91,null,6394,5,86
+1607730930416,2535,GET Home,200,OK,Thread Group 1-75,text,true,,13367,396,90,90,http://34.78.150.159/,2502,0,0
+1607730927057,5893,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-75,,true,,17083,1792,90,90,null,5783,2,72
+1607730930415,2537,GET Home,200,OK,Thread Group 1-69,text,true,,13367,396,90,90,http://34.78.150.159/,2503,0,0
+1607730926998,5951,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-69,,true,,17083,1792,90,90,null,5840,3,37
+1607730930419,2533,GET Home,200,OK,Thread Group 1-58,text,true,,13367,396,89,89,http://34.78.150.159/,2500,0,0
+1607730926889,6062,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-58,,true,,17083,1792,89,89,null,5950,1,91
+1607730930421,2532,GET Home,200,OK,Thread Group 1-55,text,true,,13367,396,87,87,http://34.78.150.159/,2498,0,0
+1607730930422,2531,GET Home,200,OK,Thread Group 1-71,text,true,,13367,396,87,87,http://34.78.150.159/,2497,0,0
+1607730930425,2528,GET Home,200,OK,Thread Group 1-53,text,true,,13367,396,87,87,http://34.78.150.159/,2494,0,0
+1607730926859,6093,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-55,,true,,17083,1792,87,87,null,5980,1,37
+1607730927018,5933,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-71,,true,,17083,1792,87,87,null,5823,2,36
+1607730926839,6113,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-53,,true,,17083,1792,87,87,null,6000,1,38
+1607730930424,2530,GET Home,200,OK,Thread Group 1-64,text,true,,13367,396,84,84,http://34.78.150.159/,2496,0,0
+1607730930426,2528,GET Home,200,OK,Thread Group 1-74,text,true,,13367,396,84,84,http://34.78.150.159/,2493,0,0
+1607730930431,2523,GET Home,200,OK,Thread Group 1-77,text,true,,13367,396,84,84,http://34.78.150.159/,2488,0,0
+1607730930438,2516,GET Home,200,OK,Thread Group 1-52,text,true,,13367,396,84,84,http://34.78.150.159/,2481,0,0
+1607730926948,6004,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-64,,true,,17083,1792,84,84,null,5892,2,50
+1607730927048,5904,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-74,,true,,17083,1792,84,84,null,5792,2,80
+1607730930437,2517,GET Home,200,OK,Thread Group 1-83,text,true,,13367,396,84,84,http://34.78.150.159/,2485,0,0
+1607730927078,5874,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-77,,true,,17083,1792,84,84,null,5762,2,59
+1607730926827,6126,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-52,,true,,17083,1792,84,84,null,6009,1,38
+1607730927139,5813,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-83,,true,,17083,1792,84,84,null,5703,2,38
+1607730929771,3183,GET Home,200,OK,Thread Group 1-49,text,true,,13367,396,79,79,http://34.78.150.159/,3149,0,0
+1607730930443,2511,GET Home,200,OK,Thread Group 1-62,text,true,,13367,396,79,79,http://34.78.150.159/,2477,0,0
+1607730929772,3182,GET Home,200,OK,Thread Group 1-33,text,true,,13367,396,79,79,http://34.78.150.159/,3148,0,0
+1607730926927,6026,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-62,,true,,17083,1792,79,79,null,5912,1,61
+1607730930429,2525,GET Home,200,OK,Thread Group 1-60,text,true,,13367,396,79,79,http://34.78.150.159/,2491,0,0
+1607730926638,6315,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-33,,true,,17083,1792,79,79,null,6197,1,37
+1607730926799,6153,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-49,,true,,17083,1792,79,79,null,6039,2,37
+1607730926908,6045,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-60,,true,,17083,1792,79,79,null,5931,1,73
+1607730930437,2518,GET Home,200,OK,Thread Group 1-70,text,true,,13367,396,75,75,http://34.78.150.159/,2484,0,0
+1607730930441,2514,GET Home,200,OK,Thread Group 1-56,text,true,,13367,396,75,75,http://34.78.150.159/,2479,0,0
+1607730929774,3181,GET Home,200,OK,Thread Group 1-34,text,true,,13367,396,75,75,http://34.78.150.159/,3146,0,0
+1607730930436,2519,GET Home,200,OK,Thread Group 1-73,text,true,,13367,396,75,75,http://34.78.150.159/,2485,0,0
+1607730926869,6086,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-56,,true,,17083,1792,75,75,null,5970,0,38
+1607730927008,5944,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-70,,true,,17083,1792,75,75,null,5831,3,38
+1607730927038,5915,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-73,,true,,17083,1792,75,75,null,5802,2,89
+1607730926648,6305,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-34,,true,,17083,1792,75,75,null,6187,2,38
+1607730929788,3167,GET Home,200,OK,Thread Group 1-42,text,true,,13367,396,75,75,http://34.78.150.159/,3134,0,0
+1607730926728,6225,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-42,,true,,17083,1792,75,75,null,6108,2,36
+1607730930431,2524,GET Home,200,OK,Thread Group 1-54,text,true,,13367,396,75,75,http://34.78.150.159/,2490,0,0
+1607730929777,3178,GET Home,200,OK,Thread Group 1-39,text,true,,13367,396,75,75,http://34.78.150.159/,3144,0,0
+1607730926849,6106,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-54,,true,,17083,1792,75,75,null,5992,0,40
+1607730926698,6256,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-39,,true,,17083,1792,75,75,null,6139,1,41
+1607730930434,2521,GET Home,200,OK,Thread Group 1-57,text,true,,13367,396,74,74,http://34.78.150.159/,2487,0,0
+1607730926878,6076,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-57,,true,,17083,1792,74,74,null,5962,1,38
+1607730930440,2516,GET Home,200,OK,Thread Group 1-68,text,true,,13367,396,67,67,http://34.78.150.159/,2482,0,0
+1607730926987,5968,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-68,,true,,17083,1792,67,67,null,5854,1,42
+1607730930443,2514,GET Home,200,OK,Thread Group 1-51,text,true,,13367,396,67,67,http://34.78.150.159/,2478,0,0
+1607730929782,3175,GET Home,200,OK,Thread Group 1-36,text,true,,13367,396,67,67,http://34.78.150.159/,3140,0,0
+1607730926819,6138,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-51,,true,,17083,1792,67,67,null,6020,0,39
+1607730926668,6286,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-36,,true,,17083,1792,67,67,null,6165,3,39
+1607730929791,3167,GET Home,200,OK,Thread Group 1-32,text,true,,13367,396,64,64,http://34.78.150.159/,3131,0,0
+1607730926628,6327,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-32,,true,,17083,1792,64,64,null,6205,3,39
+1607730929777,3181,GET Home,200,OK,Thread Group 1-44,text,true,,13367,396,63,63,http://34.78.150.159/,3147,0,0
+1607730926748,6208,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-44,,true,,17083,1792,63,63,null,6093,2,36
+1607730929784,3175,GET Home,200,OK,Thread Group 1-38,text,true,,13367,396,62,62,http://34.78.150.159/,3140,0,0
+1607730929787,3172,GET Home,200,OK,Thread Group 1-37,text,true,,13367,396,62,62,http://34.78.150.159/,3137,0,0
+1607730929791,3168,GET Home,200,OK,Thread Group 1-41,text,true,,13367,396,62,62,http://34.78.150.159/,3134,0,0
+1607730926688,6269,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-38,,true,,17083,1792,62,62,null,6147,2,36
+1607730926678,6274,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-37,,true,,17083,1792,62,62,null,6156,7,38
+1607730926719,6239,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-41,,true,,17083,1792,62,62,null,6115,1,38
+1607730929781,3178,GET Home,200,OK,Thread Group 1-40,text,true,,13367,396,62,62,http://34.78.150.159/,3143,0,0
+1607730926707,6249,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-40,,true,,17083,1792,62,62,null,6131,3,38
+1607730929780,3180,GET Home,200,OK,Thread Group 1-35,text,true,,13367,396,58,58,http://34.78.150.159/,3144,0,0
+1607730929797,3163,GET Home,200,OK,Thread Group 1-48,text,true,,13367,396,58,58,http://34.78.150.159/,3127,0,0
+1607730929797,3163,GET Home,200,OK,Thread Group 1-45,text,true,,13367,396,58,58,http://34.78.150.159/,3128,0,0
+1607730926659,6299,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-35,,true,,17083,1792,58,58,null,6178,2,39
+1607730929786,3174,GET Home,200,OK,Thread Group 1-12,text,true,,13367,396,58,58,http://34.78.150.159/,3139,0,0
+1607730929789,3171,GET Home,200,OK,Thread Group 1-43,text,true,,13367,396,58,58,http://34.78.150.159/,3135,0,0
+1607730926788,6171,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-48,,true,,17083,1792,58,58,null,6050,1,42
+1607730926431,6527,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-12,,true,,17083,1792,58,58,null,6409,2,61
+1607730926759,6200,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-45,,true,,17083,1792,58,58,null,6079,1,39
+1607730926739,6221,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-43,,true,,17083,1792,58,58,null,6100,0,39
+1607730929797,3163,GET Home,200,OK,Thread Group 1-46,text,true,,13367,396,58,58,http://34.78.150.159/,3128,0,0
+1607730926769,6191,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-46,,true,,17083,1792,58,58,null,6069,0,39
+1607730929798,3174,GET Home,200,OK,Thread Group 1-47,text,true,,13367,396,52,52,http://34.78.150.159/,3128,0,0
+1607730926777,6192,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-47,,true,,16969,1792,52,52,null,6061,4,40
+1607730928727,4266,GET Home,200,OK,Thread Group 1-4,text,true,,13367,396,51,51,http://34.78.150.159/,4266,0,0
+1607730926350,6567,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,17083,1792,51,51,null,6484,75,68
+1607730928736,4258,GET Home,200,OK,Thread Group 1-16,text,true,,13367,396,50,50,http://34.78.150.159/,4258,0,0
+1607730926468,6526,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-16,,true,,17083,1792,50,50,null,6438,0,48
+1607730928729,4266,GET Home,200,OK,Thread Group 1-31,text,true,,13367,396,49,49,http://34.78.150.159/,4266,0,0
+1607730928734,4261,GET Home,200,OK,Thread Group 1-26,text,true,,13367,396,49,49,http://34.78.150.159/,4261,0,0
+1607730928733,4262,GET Home,200,OK,Thread Group 1-29,text,true,,13367,396,49,49,http://34.78.150.159/,4262,0,0
+1607730926619,6375,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-31,,true,,17083,1792,49,49,null,6291,1,42
+1607730926598,6396,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-29,,true,,17083,1792,49,49,null,6312,1,39
+1607730926569,6425,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-26,,true,,17083,1792,49,49,null,6339,1,39
+1607730928736,4259,GET Home,200,OK,Thread Group 1-23,text,true,,13367,396,49,49,http://34.78.150.159/,4259,0,0
+1607730926538,6454,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-23,,true,,17083,1792,49,49,null,6370,3,40
+1607730928732,4265,GET Home,200,OK,Thread Group 1-17,text,true,,13367,396,45,45,http://34.78.150.159/,4265,0,0
+1607730926478,6517,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-17,,true,,17083,1792,45,45,null,6431,2,40
+1607730928738,4261,GET Home,200,OK,Thread Group 1-15,text,true,,13367,396,44,44,http://34.78.150.159/,4261,0,0
+1607730926459,6540,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-15,,true,,17083,1792,44,44,null,6450,0,56
+1607730930457,2552,GET Home,200,OK,Thread Group 1-61,text,true,,13367,396,43,43,http://34.78.150.159/,2552,0,0
+1607730930462,2547,GET Home,200,OK,Thread Group 1-86,text,true,,13367,396,43,43,http://34.78.150.159/,2547,0,0
+1607730926918,6089,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-61,,true,,17083,1792,43,43,null,6006,2,64
+1607730927169,5839,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-86,,true,,17083,1792,43,43,null,5752,1,39
+1607730930460,2550,GET Home,200,OK,Thread Group 1-90,text,true,,13367,396,41,41,http://34.78.150.159/,2550,0,0
+1607730930459,2551,GET Home,200,OK,Thread Group 1-92,text,true,,13367,396,41,41,http://34.78.150.159/,2551,0,0
+1607730927209,5800,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-90,,true,,17083,1792,41,41,null,5713,1,37
+1607730927229,5780,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-92,,true,,17083,1792,41,41,null,5695,1,36
+1607730930464,2549,GET Home,200,OK,Thread Group 1-89,text,true,,13367,396,39,39,http://34.78.150.159/,2549,0,0
+1607730930449,2564,GET Home,200,OK,Thread Group 1-76,text,true,,13367,396,39,39,http://34.78.150.159/,2564,0,0
+1607730930453,2560,GET Home,200,OK,Thread Group 1-50,text,true,,13367,396,39,39,http://34.78.150.159/,2560,0,0
+1607730930455,2558,GET Home,200,OK,Thread Group 1-80,text,true,,13367,396,39,39,http://34.78.150.159/,2558,0,0
+1607730930470,2543,GET Home,200,OK,Thread Group 1-85,text,true,,13367,396,39,39,http://34.78.150.159/,2543,0,0
+1607730926807,6204,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-50,,true,,17083,1792,39,39,null,6120,2,43
+1607730927069,5943,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-76,,true,,17083,1792,39,39,null,5863,1,62
+1607730927199,5813,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-89,,true,,17083,1792,39,39,null,5726,1,39
+1607730927159,5852,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-85,,true,,17083,1792,39,39,null,5756,2,39
+1607730927107,5905,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-80,,true,,17083,1792,39,39,null,5824,1,42
+1607730930465,2549,GET Home,200,OK,Thread Group 1-87,text,true,,13367,396,39,39,http://34.78.150.159/,2549,0,0
+1607730927179,5834,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-87,,true,,17083,1792,39,39,null,5747,1,39
+1607730930450,2564,GET Home,200,OK,Thread Group 1-72,text,true,,13367,396,34,34,http://34.78.150.159/,2564,0,0
+1607730927029,5984,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-72,,true,,17083,1792,34,34,null,5905,1,96
+1607730930447,2569,GET Home,200,OK,Thread Group 1-66,text,true,,13367,396,32,32,http://34.78.150.159/,2568,0,0
+1607730930457,2559,GET Home,200,OK,Thread Group 1-63,text,true,,13367,396,32,32,http://34.78.150.159/,2558,0,0
+1607730930474,2542,GET Home,200,OK,Thread Group 1-81,text,true,,13367,396,32,32,http://34.78.150.159/,2542,0,0
+1607730926968,6047,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-66,,true,,17083,1792,32,32,null,5965,1,56
+1607730926938,6077,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-63,,true,,17083,1792,32,32,null,5991,1,53
+1607730927118,5896,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-81,,true,,17083,1792,32,32,null,5797,2,44
+1607730930450,2566,GET Home,200,OK,Thread Group 1-65,text,true,,13367,396,32,32,http://34.78.150.159/,2565,0,0
+1607730926958,6057,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-65,,true,,17083,1792,32,32,null,5976,1,43
+1607730930481,2536,GET Home,200,OK,Thread Group 1-93,text,true,,13367,396,29,29,http://34.78.150.159/,2535,0,0
+1607730927239,5776,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-93,,true,,16969,1792,29,29,null,5677,2,40
+1607730930472,2545,GET Home,200,OK,Thread Group 1-91,text,true,,13367,396,28,28,http://34.78.150.159/,2545,0,0
+1607730927218,5796,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-91,,true,,17083,1792,28,28,null,5700,3,39
+1607730930470,2547,GET Home,200,OK,Thread Group 1-88,text,true,,13367,396,26,26,http://34.78.150.159/,2547,0,0
+1607730927189,5826,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-88,,true,,17083,1792,26,26,null,5739,3,39
+1607730930470,2548,GET Home,200,OK,Thread Group 1-79,text,true,,13367,396,26,26,http://34.78.150.159/,2548,0,0
+1607730930471,2547,GET Home,200,OK,Thread Group 1-84,text,true,,13367,396,26,26,http://34.78.150.159/,2547,0,0
+1607730927098,5919,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-79,,true,,17083,1792,26,26,null,5833,1,48
+1607730927148,5868,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-84,,true,,17083,1792,26,26,null,5771,2,41
+1607730930480,2538,GET Home,200,OK,Thread Group 1-82,text,true,,13367,396,26,26,http://34.78.150.159/,2538,0,0
+1607730930453,2565,GET Home,200,OK,Thread Group 1-67,text,true,,13367,396,26,26,http://34.78.150.159/,2565,0,0
+1607730926978,6039,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-67,,true,,17083,1792,26,26,null,5957,1,46
+1607730927129,5887,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-82,,true,,17083,1792,26,26,null,5786,2,45
+1607730930446,2572,GET Home,200,OK,Thread Group 1-59,text,true,,13367,396,26,26,http://34.78.150.159/,2572,0,0
+1607730926899,6119,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-59,,true,,17083,1792,26,26,null,6037,0,83
+1607730930478,2541,GET Home,200,OK,Thread Group 1-78,text,true,,13367,396,20,20,http://34.78.150.159/,2541,0,0
+1607730927087,5930,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-78,,true,,17083,1792,20,20,null,5832,2,54
+1607730931022,2005,GET Home,200,OK,Thread Group 1-2,text,true,,13367,396,19,19,http://34.78.150.159/,2005,0,0
+1607730926332,6603,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,17120,1792,19,19,null,6516,91,73
+1607730931034,1994,GET Home,200,OK,Thread Group 1-100,text,true,,13367,396,18,18,http://34.78.150.159/,1994,0,0
+1607730927307,5720,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-100,,true,,17006,1792,18,18,null,5630,1,53
+1607730927471,5566,POST Login,200,OK,Thread Group 1-14,text,true,,1573,1000,17,17,http://34.78.150.159/graphql,5566,0,0
+1607730926962,6078,POST Login,200,OK,Thread Group 1-10,text,true,,1573,1000,17,17,http://34.78.150.159/graphql,6077,0,0
+1607730931212,2014,GET Home,200,OK,Thread Group 1-1,text,true,,13367,396,17,17,http://34.78.150.159/,2014,0,0
+1607730926326,6802,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,17006,1792,17,17,null,6721,97,79
+1607730931541,1687,GET Home,200,OK,Thread Group 1-3,text,true,,13367,396,16,16,http://34.78.150.159/,1687,0,0
+1607730926340,6805,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,17120,1792,16,16,null,6726,83,74
+1607730931542,1686,GET Home,200,OK,Thread Group 1-7,text,true,,13367,396,15,15,http://34.78.150.159/,1686,0,0
+1607730931389,1839,GET Home,200,OK,Thread Group 1-96,text,true,,13367,396,15,15,http://34.78.150.159/,1839,0,0
+1607730926378,6804,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,,true,,17120,1792,15,15,null,6725,47,78
+1607730927269,5960,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-96,,true,,17120,1792,15,15,null,5871,0,83
+1607730931543,1687,GET Home,200,OK,Thread Group 1-8,text,true,,13367,396,13,13,http://34.78.150.159/,1686,0,0
+1607730926389,6806,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,,true,,17120,1792,13,13,null,6729,36,79
+1607730931541,1689,GET Home,200,OK,Thread Group 1-9,text,true,,13367,396,12,12,http://34.78.150.159/,1689,0,0
+1607730931543,1688,GET Home,200,OK,Thread Group 1-13,text,true,,13367,396,12,12,http://34.78.150.159/,1688,0,0
+1607730926399,6807,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,,true,,17120,1792,12,12,null,6730,26,80
+1607730926440,6791,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-13,,true,,17120,1792,12,12,null,6714,1,62
+1607730931390,1841,GET Home,200,OK,Thread Group 1-98,text,true,,13367,396,10,10,http://34.78.150.159/,1841,0,0
+1607730927288,5942,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-98,,true,,17120,1792,10,10,null,5854,2,67
+1607730931389,1845,GET Home,200,OK,Thread Group 1-97,text,true,,13367,396,9,9,http://34.78.150.159/,1844,0,0
+1607730931419,1815,GET Home,200,OK,Thread Group 1-95,text,true,,13367,396,9,9,http://34.78.150.159/,1815,0,0
+1607730927277,5957,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-97,,true,,17120,1792,9,9,null,5867,1,74
+1607730927258,5975,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-95,,true,,17120,1792,9,9,null,5886,2,92
+1607730931393,1842,GET Home,200,OK,Thread Group 1-99,text,true,,13367,396,7,7,http://34.78.150.159/,1842,0,0
+1607730931421,1814,GET Home,200,OK,Thread Group 1-94,text,true,,13367,396,7,7,http://34.78.150.159/,1814,0,0
+1607730927299,5936,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-99,,true,,17120,1792,7,7,null,5847,1,57
+1607730927248,5986,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-94,,true,,17120,1792,7,7,null,5897,2,89
+1607730933037,227,GET Home,200,OK,Thread Group 1-14,text,true,,13367,396,5,5,http://34.78.150.159/,227,0,0
+1607730926450,6812,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-14,,true,,17253,1792,5,5,null,6733,4,59
+1607730933039,227,GET Home,200,OK,Thread Group 1-10,text,true,,13367,396,4,4,http://34.78.150.159/,227,0,0
+1607730926410,6841,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,,true,,17253,1792,4,4,null,6766,17,64
+1607730928016,5252,POST Login,200,OK,Thread Group 1-24,text,true,,1573,1000,3,3,http://34.78.150.159/graphql,5170,0,0
+1607730927472,5797,POST Login,200,OK,Thread Group 1-5,text,true,,1573,1000,3,3,http://34.78.150.159/graphql,5714,0,0
+1607730927473,5797,POST Login,200,OK,Thread Group 1-6,text,true,,1573,1000,3,3,http://34.78.150.159/graphql,5715,0,0
+1607730933268,137,GET Home,200,OK,Thread Group 1-24,text,true,,13367,396,3,3,http://34.78.150.159/,137,0,0
+1607730933268,137,GET Home,200,OK,Thread Group 1-5,text,true,,13367,396,3,3,http://34.78.150.159/,137,0,0
+1607730926359,6981,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,17253,1792,3,3,null,6817,67,84
+1607730926549,6855,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-24,,true,,17253,1792,3,3,null,6692,3,38
+1607730933269,145,GET Home,200,OK,Thread Group 1-6,text,true,,13367,396,1,1,http://34.78.150.159/,145,0,0
+1607730926369,6990,Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,,true,,17253,1792,1,1,null,6828,57,68
