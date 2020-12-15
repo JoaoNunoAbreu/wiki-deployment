@@ -7,20 +7,20 @@
 # ---------------------------------------------------------------------
 # Port the server should listen to
 # ---------------------------------------------------------------------
-port: 6666
+port: 3000
 
 # ---------------------------------------------------------------------
 # Database
 # ---------------------------------------------------------------------
 db:
-    type: postgres
+  type: postgres
 
-    host: localhost
-    port: 5432
-    user: wikijs
-    pass: wikijsrocks
-    db: wiki
-    ssl: false
+  host: localhost
+  port: 5432
+  user: wikijs
+  pass: wikijsrocks
+  db: wiki
+  ssl: false
 
 #######################################################################
 # ADVANCED OPTIONS                                                    #
@@ -33,37 +33,37 @@ db:
 # Consider using a reverse proxy (e.g. nginx) if you require more
 # advanced options than those provided below.
 ssl:
-    enabled: false
-    port: 3443
+  enabled: false
+  port: 3443
 
-    # Provider to use, possible values: custom, letsencrypt
-    provider: custom
+  # Provider to use, possible values: custom, letsencrypt
+  provider: custom
 
-    # ++++++ For custom only ++++++
-    # Certificate format, either 'pem' or 'pfx':
-    format: pem
-    # Using PEM format:
-    key: path/to/key.pem
-    cert: path/to/cert.pem
-    # Using PFX format:
-    pfx: path/to/cert.pfx
-    # Passphrase when using encrypted PEM / PFX keys (default: null):
-    passphrase: null
-    # Diffie Hellman parameters, with key length being greater or equal
-    # to 1024 bits (default: null):
-    dhparam: null
+  # ++++++ For custom only ++++++
+  # Certificate format, either 'pem' or 'pfx':
+  format: pem
+  # Using PEM format:
+  key: path/to/key.pem
+  cert: path/to/cert.pem
+  # Using PFX format:
+  pfx: path/to/cert.pfx
+  # Passphrase when using encrypted PEM / PFX keys (default: null):
+  passphrase: null
+  # Diffie Hellman parameters, with key length being greater or equal
+  # to 1024 bits (default: null):
+  dhparam: null
 
-    # ++++++ For letsencrypt only ++++++
-    domain: wiki.yourdomain.com
-    subscriberEmail: admin@example.com
+  # ++++++ For letsencrypt only ++++++
+  domain: wiki.yourdomain.com
+  subscriberEmail: admin@example.com
 
 # ---------------------------------------------------------------------
 # Database Pool Options
 # ---------------------------------------------------------------------
 # Refer to https://github.com/vincit/tarn.js for all possible options
 pool:
-    # min: 2
-    # max: 10
+  # min: 2
+  # max: 10
 
 # ---------------------------------------------------------------------
 # IP address the server should listen to

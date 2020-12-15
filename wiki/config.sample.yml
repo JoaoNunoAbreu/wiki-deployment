@@ -21,7 +21,7 @@ port: 3000
 # - sqlite = SQLite 3.9 or later
 
 db:
-  type: postgressu
+  type: postgres
 
   # PostgreSQL / MySQL / MariaDB / MS SQL Server only:
   host: localhost
