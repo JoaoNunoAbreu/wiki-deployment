@@ -1,4 +1,4 @@
-log_format upstreamLog '$server_name to: $upstream_addr [$request] '
+log_format upstreamLog '$request_time - $server_name to: $upstream_addr [$request] '
     'upstream_response_time $upstream_response_time '
     'msec $msec request_time $request_time';
 
