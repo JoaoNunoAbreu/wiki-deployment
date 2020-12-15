@@ -3,10 +3,10 @@ log_format upstreamLog '$server_name to: $upstream_addr [$request] '
     'msec $msec request_time $request_time';
 
 upstream backend {
-    ip_hash;
-    server wiki1:3000;
-    server wiki2:3000;
-    server wiki3:3000;
+    least_conn;
+    server wiki1:6666;
+    server wiki2:6666;
+    server wiki3:6666;
 }
 
 server {
