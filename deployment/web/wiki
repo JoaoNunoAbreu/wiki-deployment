@@ -2,7 +2,7 @@ log_format upstreamLog '$time_local - $server_name to: $upstream_addr [$request]
     'upstream_response_time $upstream_response_time '
     'msec $msec request_time $request_time';
 
-upstream backend {
+upstream app {
     least_conn;
     server wiki1:6666;
     server wiki2:6666;
@@ -13,7 +13,7 @@ server {
     access_log /var/log/nginx/access.log upstreamLog;
 
     location / {
-        proxy_pass http://backend;
+        proxy_pass http://app;
         proxy_set_header Host $host;
     }
 }
