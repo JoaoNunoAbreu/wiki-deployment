@@ -1,6 +1,9 @@
 # Wiki.js Deployment
 
+## Deployment
+
 ## Basic Installation
+
 <details>
   <summary>Docker</summary>
   
@@ -38,12 +41,12 @@
 <details>
   <summary>Heroku</summary>
 
-  ### Initial Setup
-  - After creating an account on Heroku, click [here](https://heroku.com/deploy?template=https://github.com/requarks/wiki-heroku/tree/2.x).
-  - Wait for heroku to deploy.
-  - After a succesfull deploy, select manage app. The deploy will be automatically done in a free tier with PostgreSQL. 
-  
- 
+### Initial Setup
+
+-   After creating an account on Heroku, click [here](https://heroku.com/deploy?template=https://github.com/requarks/wiki-heroku/tree/2.x).
+-   Wait for heroku to deploy.
+-   After a succesfull deploy, select manage app. The deploy will be automatically done in a free tier with PostgreSQL.
+
 </details>
 
 ## Accounts
@@ -52,10 +55,12 @@ Test: email - test@icd.com | pass - icd2020
 Wiki Test: email - wiki@example.com | pass - passwordfixe
 
 ## Authors
-* **Diogo Ribeiro:** [ribeiropdiogo](https://github.com/ribeiropdiogo)
-* **João Nuno Abreu:** [JoaoNunoAbreu](https://github.com/JoaoNunoAbreu)
-* **Vasco Ramos:** [vascoalramos](https://vascoalramos.me)
-* **J. Diogo Monteiro:** [dxmonteiro](https://github.com/DxMonteiro)
+
+-   **Diogo Ribeiro:** [ribeiropdiogo](https://github.com/ribeiropdiogo)
+-   **João Nuno Abreu:** [JoaoNunoAbreu](https://github.com/JoaoNunoAbreu)
+-   **Vasco Ramos:** [vascoalramos](https://vascoalramos.me)
+-   **J. Diogo Monteiro:** [dxmonteiro](https://github.com/DxMonteiro)
 
 ## License
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
