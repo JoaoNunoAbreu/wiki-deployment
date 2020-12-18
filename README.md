@@ -12,13 +12,12 @@
 
 1. Create VM instances
 2. Run Wiki.js
-
--   Update user config: `vim wiki.service`
--   Create Service specification: `sudo bash -c 'cat wiki.service > /etc/systemd/system/wiki.service'`
--   Copy wiki to static folder: `sudo cp wiki /var/wiki`
--   Reload systemd: `sudo systemctl daemon-reload`
--   Run the service: `sudo systemctl start wiki`
--   Check Wiki.js service status: `sudo systemtctl status wiki` or see logs with `journalctl -u wiki`
+    - Update user config: `vim wiki.service`
+    - Create Service specification: `sudo bash -c 'cat wiki.service > /etc/systemd/system/wiki.service'`
+    - Copy wiki to static folder: `sudo cp wiki /var/wiki`
+    - Reload systemd: `sudo systemctl daemon-reload`
+    - Run the service: `sudo systemctl start wiki`
+    - Check Wiki.js service status: `sudo systemtctl status wiki` or see logs with `journalctl -u wiki`
 
 ### DB Server(s)
 
