@@ -70,8 +70,14 @@
 
 ## Accounts
 
-Test: email - test@icd.com | pass - icd2020
-Wiki Test: email - wiki@example.com | pass - passwordfixe
+-   **Test:**
+
+    -   email: test@icd.com
+    -   pass: icd2020
+
+-   **Wiki Test:**
+    -   email: wiki@example.com
+    -   pass: passwordfixe
 
 ## Authors
 
