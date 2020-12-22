@@ -14,7 +14,7 @@ port: 6666
 # ---------------------------------------------------------------------
 db:
     type: postgres
-    host: db
+    host: 10.132.0.27
     port: 5432
     user: wikijs
     pass: wikijsrocks
