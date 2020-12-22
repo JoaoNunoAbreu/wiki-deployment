@@ -70,6 +70,11 @@
 
 ## Accounts
 
+-   **Admin:**
+
+    -   email: admin@example.com
+    -   pass: admin123456789
+
 -   **Test:**
 
     -   email: test@icd.com
