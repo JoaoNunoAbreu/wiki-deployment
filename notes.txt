@@ -1,4 +1,0 @@
-Com a google cloud não usar:
-- IPVS
-- Keepalived
-- a Virtual IP address resource (ofc:heartbeat IPaddr2) (VAI DAR MERDA)
